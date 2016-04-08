@@ -1,0 +1,92 @@
+<!--
+To change this template use Tools | Templates.
+-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!--
+To change this template use Tools | Templates.
+-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>Narrow Jumbotron Template for Bootstrap</title>
+
+    <!-- Bootstrap core CSS -->
+    
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <!-- Custom styles for this template -->
+    <link href="jumbotron-narrow.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div class="container">
+      <div class="header clearfix">
+        <nav>
+         <div class="row">
+             <ul class="nav nav-pills pull-left">
+                 <li role="presentation"><a href="#">Mustafa Sharif</a></li>
+             </ul>
+          <ul class="nav nav-pills pull-right">
+            <li role="presentation" class="active"><a href="#">Home</a></li>
+            <li role="presentation"><a href="#">About</a></li>
+            <li role="presentation"><a href="#">Resume</a></li>
+            <li role="presentation"><a href="#">Contact</a></li>
+          </ul>
+            </div>
+        </nav> 
+      </div>     
+    <div class="col-lg-6">
+      <div class="jumbotron" style=align-left;>
+          <h1><font size="5">About</font></h1>
+            <p class="lead">
+        <font size="3">Hello! I am a junior Web developer with experience in HTML and CSS. 
+        I enjoy the challenges and creativity needed in order to be a successful developer. Honing
+    my current skill set and developing new skills utilizing the latest web development tools, are activities
+    performed daily to facilitate my growth as a developer.</font>        
+      </div>
+        </div>
+           <div class="row marketing">
+             <div class="col-lg-6">
+               <img src="https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=86b6dc3884&view=att&th=153ee9db710b11eb&attid=0.1&disp=safe&realattid=1530918027941380096-local0&zw&saddbat=ANGjdJ8__fMhzZhirSr2QaCPvMZpLhsAy_G5UD7HLCig5DSsoftesutPVghlieuIlGwy2HQI9psLk38bBmOLr7TEXGDr9j7SRU9SU8v6eYO3aXQbPXNvhRV50GjFFqqZ7zaHI4rC_EQuR2TpGmyoPSOajH2HpbGzaXkJRCzc-JSXSUbJ-n-3vmmAdkSrlCpqnHmrhOgbjsXLEwiGZRbKiet0BXyQRVwGJJ__YtkVhyaUnmkAgZomxfes87UjxNab8i3VbSP9K-_7j1zUHau4hWte2fY7IuPHyP8xQoyiv04mWPsVFJ01O6_f5d0Jzjytai9K2askEZpgDpM7yNH8QhgUyGx-OT4aVwq5NErGIZ14XUiGvO-9fhuT_6gJofUqF4oqYS1kZXbvBo9xga6kLgd_cs_syTuD3KZuR-QldPZpOYi1_pkHB3ymULdaj1-pOmqj_LLT_c3lCpuG" alt="pic1" class="center" height="450px" width="375px"style="PADDING-Top: 35px; PADDING-Bottom: 35px;">
+            </div>
+        </div>  
+            <nav>
+              <footer class="footer">
+                <div class="row">
+                  <ul class="nav nav-pills pull-left">
+                 <li role="presentation" style="padding-left: 35px"><a href="#">M.Sharif 2016</a></li>
+             </ul>
+          <ul class="nav nav-pills pull-left">
+            <li role="presentation"><a href="#">Say hello</a></li>
+               </ul>
+                 </div>
+                   </footer>
+                </nav> 
+            </div>
+     <!-- /container -->
+
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
